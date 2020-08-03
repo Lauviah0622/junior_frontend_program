@@ -62,7 +62,8 @@
 - [ ] 練習 [Git training](https://learngitbranching.js.org/?locale=zh_TW)
 - [ ] 把 LiOJ 全部做完
 - [ ] [CSS Diner](https://flukeout.github.io/)
-- [ ] [flexbox Frogggy](http://flexboxfroggy.com/)
+- [x] [flexbox Frogggy](http://flexboxfroggy.com/)
+- [ ] [Grid Garden](https://cssgridgarden.com/)
 
 ### 課程
 
