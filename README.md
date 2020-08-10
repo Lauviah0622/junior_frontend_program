@@ -11,20 +11,23 @@
 
 - [x] week8
     <details>
-    - P1 你知道什麼是 API  
-    - P1 你知道什麼是 Ajax  
-    - P1 你知道從網頁前端呼叫 API 與在自己電腦上寫程式呼叫的差異  
-    - P1 你知道什麼是同源政策（Same-origin policy）  
-    - P1 你知道如何存取跨網域的資源（CORS）  
-    - P1 你知道什麼是 JSON  
-    - P2 你知道什麼是 JSONP 及其原理  
+
+        - P1 你知道什麼是 API  
+        - P1 你知道什麼是 Ajax  
+        - P1 你知道從網頁前端呼叫 API 與在自己電腦上寫程式呼叫的差異  
+        - P1 你知道什麼是同源政策（Same-origin policy）  
+        - P1 你知道如何存取跨網域的資源（CORS）  
+        - P1 你知道什麼是 JSON  
+        - P2 你知道什麼是 JSONP 及其原理  
     </details>  
-    - [x] [輕鬆理解跨來源請求](https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/)  
-    - [x] hw1  
-    - [x] hw2  
-    - [x] hw3  
+- [輕鬆理解跨來源請求](https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/)  
+- hw1  
+- hw2  
+- hw3  
+
 ### 目前進度
 - [ ] week9 
+
 ### 未來進度
 
 - [ ] week9
