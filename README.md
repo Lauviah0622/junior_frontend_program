@@ -9,7 +9,7 @@
 
 ### 目前
 
-- [ ] week8
+- [x] week8
     <details>
     - P1 你知道什麼是 API  
     - P1 你知道什麼是 Ajax  
@@ -19,10 +19,10 @@
     - P1 你知道什麼是 JSON  
     - P2 你知道什麼是 JSONP 及其原理  
     </details>  
-    - [ ] [輕鬆理解跨來源請求](https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/)  
-    - [ ] hw1  
-    - [ ] hw2  
-    - [ ] hw3  
+    - [x] [輕鬆理解跨來源請求](https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/)  
+    - [x] hw1  
+    - [x] hw2  
+    - [x] hw3  
 
 ### 未來進度
 
@@ -61,9 +61,9 @@
 - [ ] 練習[Codewar](https://www.codewars.com/dashboard)
 - [ ] 練習 [Git training](https://learngitbranching.js.org/?locale=zh_TW)
 - [ ] 把 LiOJ 全部做完
-- [ ] [CSS Diner](https://flukeout.github.io/)
+- [x] [CSS Diner](https://flukeout.github.io/)
 - [x] [flexbox Frogggy](http://flexboxfroggy.com/)
-- [ ] [Grid Garden](https://cssgridgarden.com/)
+- [x] [Grid Garden](https://cssgridgarden.com/)
 
 ### 課程
 
@@ -74,5 +74,5 @@
 
 - [ ] [CS75 (Summer 2012) Lecture 0 HTTP Harvard Web Development David Malan](https://www.youtube.com/watch?v=8KuO4r5CHjM)：複習 HTTP
 - [ ] [前端工具百寶箱 - 六角學院](https://ithelp.ithome.com.tw/articles/10207997)
-- [ ] [Google developer 除錯大解密](https://www.udemy.com/course/chrome-devtools/)
+- [x] [Google developer 除錯大解密](https://www.udemy.com/course/chrome-devtools/)
 - [ ] Dan Abramov 的信
