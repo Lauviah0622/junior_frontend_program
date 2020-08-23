@@ -7,31 +7,11 @@
 - [ ] week3 超級超級挑戰題：走迷宮
 - [ ] week6 超級挑戰題：FB 切版
 
-### 目前已完成
+### 進度
 
 - [x] week8
-    <details>
-
-        - P1 你知道什麼是 API  
-        - P1 你知道什麼是 Ajax  
-        - P1 你知道從網頁前端呼叫 API 與在自己電腦上寫程式呼叫的差異  
-        - P1 你知道什麼是同源政策（Same-origin policy）  
-        - P1 你知道如何存取跨網域的資源（CORS）  
-        - P1 你知道什麼是 JSON  
-        - P2 你知道什麼是 JSONP 及其原理  
-    </details>  
-- [輕鬆理解跨來源請求](https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/)  
-- hw1  
-- hw2  
-- hw3  
-
-### 目前進度
-- [ ] week9 
-
-### 未來進度
-
-- [ ] week9
-- [ ] week10
+- [x] week9 
+- [x] week10
 - [ ] week11
 - [ ] week12
 - [ ] week13
@@ -54,10 +34,10 @@
 
 - [ ] 貢獻 github 上的專案
 - [ ] 做個 side project
-- [ ] 寫一篇關於 list-item-type 的文章
-- [ ] 學會 typescript
+- [x] 寫一篇關於 list-item-type 的文章
+- [ ] 看看能不能學會 typescript
 - [ ] 建好 自己的 blog
-    目前進度 5%
+
 
 ### 練習
 
@@ -80,3 +60,5 @@
 - [ ] [前端工具百寶箱 - 六角學院](https://ithelp.ithome.com.tw/articles/10207997)
 - [x] [Google developer 除錯大解密](https://www.udemy.com/course/chrome-devtools/)
 - [ ] Dan Abramov 的信
+- [ ] [良葛格](https://openhome.cc/Gossip/)
+- [ ] [前端 30 問](https://ithelp.ithome.com.tw/articles/10228480) err，也太難...
