@@ -62,3 +62,4 @@
 - [ ] Dan Abramov 的信
 - [ ] [良葛格](https://openhome.cc/Gossip/)
 - [ ] [前端 30 問](https://ithelp.ithome.com.tw/articles/10228480) err，也太難...
+- [ ] [解析 JavaScript，我真是搞不懂你啊！ @ JSDC Taiwan 2012](https://blog.xuite.net/vexed/tech/60612163)
